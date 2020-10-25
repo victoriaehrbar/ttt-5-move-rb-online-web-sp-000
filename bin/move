@@ -6,8 +6,8 @@ board = [" ", " " , " ", " ", " ", " ", " ", " ", " "]
 
 input = gets.strip
 
-def index input_to_index(input)
-end
+index = input_to_index(input)
+
 
 # def input_to_index(user_input)
 #   index = user_input.to_i-1
